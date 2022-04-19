@@ -1,8 +1,17 @@
-<img src="https://github.com/LucianoSabino/projetos-Js/blob/main/projeto-rel%C3%B3gio/relogio.gif?raw=true" alt="exemplo imagem">
+<img src="https://github.com/LucianoSabino/projetos-Js/blob/main/play-musica/img/projeto-spotify.gif?raw=true" alt="exemplo imagem">
 
-## Relógio
+# # Play-música
 
-Desafio proposto, é desafio feito. Um pequeno projeto Js, onde pega a hora, minutos e segundos atual, e mostra na tela.
+Play de música onde o usuário fica à vontade, para pausa e muda de música.
+
+[App](https://paly-musica.netlify.app/)
+
+## 🔧 Objetivo
+
+- Manipulação do DOO.
+- Validação do tempo da música.
+- Tratamento de dados.
+- Logica para transformar segundo para minutos, da barra de exibição.
 
 ## Feito Com:
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
